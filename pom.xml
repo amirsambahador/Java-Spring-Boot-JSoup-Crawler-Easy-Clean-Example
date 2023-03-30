@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>org.j2os.project</groupId>
-    <artifactId>crwaler</artifactId>
+    <artifactId>crawler</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
